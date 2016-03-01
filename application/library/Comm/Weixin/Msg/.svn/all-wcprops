@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg
+END
+xmlparse.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg/xmlparse.php
+END
+sha1.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg/sha1.php
+END
+wxBizMsgCrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eye2eye/!svn/ver/79/1/application/library/Comm/Weixin/Msg/wxBizMsgCrypt.php
+END
+Analyze.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eye2eye/!svn/ver/101/1/application/library/Comm/Weixin/Msg/Analyze.php
+END
+demo.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg/demo.php
+END
+errorCode.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg/errorCode.php
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eye2eye/!svn/ver/64/1/application/library/Comm/Weixin/Msg/ReadMe.txt
+END
+pkcs7Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eye2eye/!svn/ver/80/1/application/library/Comm/Weixin/Msg/pkcs7Encoder.php
+END
